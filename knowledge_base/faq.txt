@@ -1,0 +1,22 @@
+ABC Technologies - Frequently Asked Questions
+
+Q: How do I reset my password?
+A: Click "Forgot Password" on the login screen. A reset link will be emailed to you, valid for 24 hours.
+
+Q: Can I change my subscription plan later?
+A: Yes, upgrade or downgrade anytime from Account Settings. Downgrades take effect at the next billing cycle.
+
+Q: What payment methods are accepted?
+A: We accept all major credit cards, debit cards, and PayPal.
+
+Q: How long does a refund take to process?
+A: Approved refunds are processed within 5-7 business days to the original payment method.
+
+Q: Is my data secure?
+A: Yes, all data is encrypted in transit and at rest, complying with industry-standard data protection regulations.
+
+Q: How many users can I add?
+A: Starter: 5 users, Professional: 20 users, Enterprise: Unlimited.
+
+Q: Do you offer a free trial?
+A: Yes, 14-day free trial with full features. No credit card required.
